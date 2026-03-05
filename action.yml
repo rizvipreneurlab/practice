@@ -1,0 +1,6 @@
+name: "My First Node Action"
+description: "A simple GitHub Action written in Node.js"
+
+runs:
+  using: "node20"
+  main: "index.js"
